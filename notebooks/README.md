@@ -8,7 +8,7 @@ The **Financial News and Stock Price Integration (FNSPID)** project aims to anal
 
 1. **Sentiment Analysis Notebook**:
 2. **Quantitative Analysis Notebook**:
-3. **Combined Analysis Notebook**:
+3. **Combined Analysis (Task4) Notebook**:
 4. **Stock Data Analysis Notebook**:
 
 ## Libraries Used
@@ -29,10 +29,10 @@ The **Financial News and Stock Price Integration (FNSPID)** project aims to anal
 
 2. **Notebook Execution Order**:
    -I Run the notebooks in the following order:
-     1. Sentiment Analysis
-     4. Stock Data Analysis
+     1. Sentiment Analysis (Nova)
+     4. Stock Data Analysis (yfinance)
      2. Quantitative Analysis
-     3. Combined Analysis
+     3. Task4 Analysis
 
 
 
